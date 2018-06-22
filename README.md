@@ -20,6 +20,9 @@ _______________
 ![avatar](/4.png)
 
 
+### 项目预览地址
+
+https://wangxiaojingit.github.io/vue-dor/dist/index.html
 
 
 
@@ -118,6 +121,7 @@ let Collet=()=>import("../components/collet.vue")
 ```
 
 ### 如果想要在github 上发布预览,需要用到mock.js 因为github 只支持静态服务
+
 
 ### 最后在打包上线的时候需要更改下 
 
